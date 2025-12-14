@@ -16,13 +16,6 @@ In real-world SaaS environments, outages are detected through:
 * Automated anomaly detection
 * Human-in-the-loop incident response
 
-Most student projects focus on CRUD functionality. This project intentionally focuses on **infrastructure and operations workflows**, which are rarely built at the undergraduate level.
-
-Recruiters should see:
-
-> Real-time systems + distributed services + incident workflows + AI assistance
-
----
 
 ## Key Features (Current MVP)
 
